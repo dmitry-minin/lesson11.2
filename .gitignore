@@ -1,0 +1,4 @@
+.idea
+venv/
+_pycahce_
+*.pyc
