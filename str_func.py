@@ -1,2 +1,4 @@
 def text_changer(string: str):
-    return string.upper()
+    """Функция делает заглавной первую букву"""
+    return string.title()
+
